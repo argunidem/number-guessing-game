@@ -38,6 +38,7 @@ input[type='text'] {
   margin-top: 30px;
   border-radius: 3px;
   border: 1px solid #6d155e;
+  font-size: 17px;
 }
 
 button {
